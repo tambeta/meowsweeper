@@ -11,6 +11,11 @@ body {
 	font-family: Cantarell, "Lucida Grande", Arial, sans-serif;
 }
 
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
 .hidden {
 	display: none;
 }
